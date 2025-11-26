@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/matthewrockwood/LeetCode/tree/master/0015-3sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/matthewrockwood/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2942-find-words-containing-character](https://github.com/matthewrockwood/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/matthewrockwood/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
