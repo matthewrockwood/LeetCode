@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3232-find-if-digit-game-can-be-won](https://github.com/matthewrockwood/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/matthewrockwood/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/matthewrockwood/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
