@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/matthewrockwood/LeetCode/tree/master/0258-add-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/matthewrockwood/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Linked List
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/matthewrockwood/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/matthewrockwood/LeetCode/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/matthewrockwood/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/matthewrockwood/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
